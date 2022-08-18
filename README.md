@@ -5,6 +5,6 @@
 
 若要使用請按以下步驟
 
-step1. git clone 網址
+step1. git clone https://github.com/bryant0108/Pygame_CodeRain.git
 step2. pip install -r requirements.txt
 step3. 按下執行～
